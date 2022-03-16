@@ -16,6 +16,8 @@
 - https://socket.io/docs/v4/
 - https://developer.mozilla.org/en-US/docs/Web/API/WebSocket
 - https://github.com/socketio/socket.io
+- Sockets VS Polling
+  - https://ably.com/blog/websockets-vs-long-polling
 - Node and React
   - https://dev.to/omardiaa48/how-to-make-realtime-apis-with-nodejs-and-reactjs-using-socket-io-6ja
 - Node and Angular
